@@ -1,0 +1,135 @@
+body {
+  margin: 0px 0px 0px 0px;
+  min-width: 870px;
+}
+
+.headerTopBox {
+  height: 70px;
+  background-color: #52471b;
+  border-top: 0px;
+  border-right: 0px;
+  border-bottom: 10px;
+  border-left: 0px;
+  border-color: #87752d;
+  border-style: solid;
+}
+
+.headerLowerBox {
+  height: 85px;
+  background-color: #f2cc10; /* There is a resource video for repeating images.
+                                The notes in photoshop say to do a solid yellow
+                                background and that we will not be graded for
+                                the repeating image. So, I am following the
+                                notes.
+                             */
+}
+
+.logoBox {
+  position: relative;
+  bottom: 140px;
+  left: 45%;
+}
+
+header h1 {
+  color: #87752d;
+  font-family: 'Arial', 'Gadget', sans-serif;
+  font-size: 14px;
+  margin-top: -2px;
+  padding-left: 27px;
+}
+
+header nav {
+  height: 40px;
+  background-color: #87752d;
+  border-top: 2px;
+  border-right: 0px;
+  border-bottom: 2px;
+  border-left: 0px;
+  border-color: #52471b;
+  border-style: solid;
+  margin-top: -126px;
+  text-align: center;
+  padding-bottom: 10px;
+  -moz-box-shadow: 0px 0px 10px #777777;
+	-webkit-box-shadow: 0px 0px 10px #777777;
+	box-shadow: 0px 0px 10px #777777;
+}
+
+header nav li {
+  list-style: none;
+  display: inline;
+  padding-left: 20px;
+  font-family: 'Arial', 'Gadget', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+header nav a:link, nav a:visited {
+  color: #f8ffb0;
+  text-decoration: none;
+  display: inline-block;
+}
+
+main {
+  height: 700px;
+  background-color: #f8ffb0;
+  margin-top: 0px;
+}
+
+section {
+    width: 870px;
+    margin: 0px auto 20px auto;
+}
+
+section figure {
+  background-color: #87752d;
+  float: left;
+  margin-top: 70px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 5px solid #87752d;
+  border-radius: 5px 5px;
+}
+
+main section figure figcaption {
+  color: #f8ffb0;
+  font-family: 'Arial', 'Gadget', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+main blockquote {
+  width: 500px;
+  margin-top: 50px; /* It says 50px in Photoshop so I am going with it. */
+  margin-left: 175px;
+  color: #52471b;
+  font-family: 'Arial', 'Gadget', sans-serif;
+  font-size: 28px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.clear {
+  clear: both;
+}
+
+footer {
+  background-color: #52471b;
+  height: 115px;
+  border-top: 5px;
+  border-right: 0px;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-color: #87752d;
+  border-style: solid;
+}
+
+footer p {
+  font-family: 'Arial', 'Gadget', sans-serif;
+  text-align: center;
+  color: #f2cc10;
+  font-weight: bold;
+  margin-top: 40px;
+}

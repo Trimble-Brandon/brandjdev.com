@@ -1,0 +1,7 @@
+Notes:
+
+Transitions: in CSS are applied to an element and specify that when a property changes 
+it should do so over gradually over over a period of time.
+
+Animations: are different. When applied, they just run and do their thing. They offer 
+more fine-grained control as you can control different stops of the animations.
