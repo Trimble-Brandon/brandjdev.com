@@ -1,0 +1,33 @@
+#welcome {
+    padding: 15px;
+    height: 400px;
+    width: 600px;
+    background-color: grey;
+    position: fixed;
+    left: 200px;
+    bottom: 400px;
+    
+}
+
+.postHeading {
+    margin-bottom: 20px;
+}
+
+#content1 {
+    width: 400px;
+    height: 400px;
+    position: relative;
+}
+
+div button {
+    margin-bottom: 20px;
+}
+
+#green-circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px 75px;
+    background-color: green;
+    margin: 50px;
+    position: absolute;
+}

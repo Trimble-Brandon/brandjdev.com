@@ -39,10 +39,13 @@
                     <a href="/cit261/controlling_css_animations_transitions_with_javascript/example.php">Controlling CSS animations and transitions with JavaScript</a>
                   </li>
                   <li>
-                    <a href="/cit261/object_creation_functions_inheritance_properties_methods_instantiation/index.php">Obbject creation, functions, inheritance, properties, methods, instantiation</a>
+                    <a href="/cit261/object_creation_functions_inheritance_properties_methods_instantiation/index.php">Object creation, functions, inheritance, properties, methods, instantiation</a>
                   </li>
                   <li>
                     <a href="/cit261/local_storage_api/index.php">Local Storage API</a>
+                  </li>
+                  <li>
+                      <a href="/cit261/standard_javascript_events//index.php">Standard JavaScript Events</a>
                   </li>
                 </ul>
               </section>
