@@ -1,16 +1,25 @@
 <?php include '../view/header.php'; ?>
-    <main class="register-content">
+    <main>
 
         <h2>Register Product</h2>
         <?php if (isset($message)) : ?>
             <p><?php echo $message; ?></p>
         <?php else: ?>
             
+        <?php endif; ?>
+            
             // Build the product registration form
             <form action="." method="post">
                 <label>Customer:</label>
-                <span><?php echo $customer['firstName'] . " " . $customer['lastName']; ?></span>
+                <?php foreach ($customers as $customer) :?>
+                <label>
+                    <?php echo $customer['firstName']. " ";?>
+                    <?php echo $customer['lastName'];?>
+                </label>
+                <input type="hidden" name="customer_id" value="<?php echo $customer['customerID'];?>">
                 <br>
+                <br>
+                <?php endforeach;?>
                 <label for="product">Product:</label>
                 <select name="product" id="product">
                     <?php foreach ($products as $product) : ?>
@@ -27,7 +36,5 @@
                 <input type="submit" value="Register Product">
             </form>
         
-    
-        <?php endif; ?>
-</main>
+    </main>
 <?php include '../view/footer.php'; ?>
