@@ -62,10 +62,10 @@
                 Exercise 5-1(complete)
               </li>
               <li>
-                Exercise 7-2
+                Exercise 7-2(complete)
               </li>
               <li>
-                Exercise 8-2
+                Exercise 8-2(complete)
               </li>
               <li>
                 Exercise 15-1
@@ -89,7 +89,7 @@
                 <a href="http://brandjdev.com/cit336/assignments/enhancement04/index.php" target="_blank">Enhancement 4</a>
               </li>
               <li>
-                Enhancement 5
+                <a href="http://brandjdev.com/cit336/assignments/enhancement05/index.php" target="_blank">Enhancement 5</a>
               </li>
               <li>
                 Enhancement 7
