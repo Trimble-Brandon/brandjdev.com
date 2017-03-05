@@ -92,7 +92,7 @@
                 <a href="http://brandjdev.com/cit336/assignments/enhancement05/index.php" target="_blank">Enhancement 5</a>
               </li>
               <li>
-                Enhancement 7
+                <a href="http://brandjdev.com/cit336/assignments/enhancement07/index.php" target="_blank">Enhancement 7</a>
               </li>
               <li>
                 Enhancement 12
