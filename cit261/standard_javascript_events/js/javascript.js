@@ -22,7 +22,7 @@ function createCircle() {
     document.getElementById('content1').appendChild(greenCircle);
 }
 
-function animate() {
+function animate(id) {
     var elem = document.getElementById('green-circle'); 
     var pos = 0;
     var id = setInterval(frame, 10);
