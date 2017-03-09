@@ -68,7 +68,7 @@
                 Exercise 8-2(complete)
               </li>
               <li>
-                Exercise 15-1
+                Exercise 15-1(complete)
               </li>
               <li>
                 Exercise 12-2
