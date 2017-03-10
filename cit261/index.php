@@ -50,6 +50,9 @@
                   <li>
                       <a href="/cit261/reaction_game/index.php">Reaction Game</a>
                   </li>
+                  <li>
+                      <a href="/cit261/json_test/index.php">json Test</a>
+                  </li>
                 </ul>
               </section>
 
