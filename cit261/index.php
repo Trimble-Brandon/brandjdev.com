@@ -48,7 +48,7 @@
                       <a href="/cit261/standard_javascript_events/index.php">Standard JavaScript Events</a>
                   </li>
                   <li>
-                      <a href="/cit261/reaction_game/index.php">Standard JavaScript Events</a>
+                      <a href="/cit261/reaction_game/index.php">Reaction Game</a>
                   </li>
                 </ul>
               </section>
