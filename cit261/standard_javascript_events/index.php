@@ -37,10 +37,8 @@
                   <button id="button1" onclick="createCircle()">Click me for circle!</button>
                   
                 </div>
-          
-                <br />
+        
                 <hr />
-                <br />
                 
                 <div>
                     <p id="paragraph">
