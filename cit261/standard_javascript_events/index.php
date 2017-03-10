@@ -34,15 +34,26 @@
               </div>
                 
                 <div id="content1" class="content">
-                  <button id="button1" onclick="createCircle()">Click me!</button>
+                  <button id="button1" onclick="createCircle()">Click me for circle!</button>
                   
                 </div>
+          
+                <br />
+                <hr />
+                <br />
                 
-              
-
-              <br />
-              <hr />
-              <br />
+                <div>
+                    <p id="paragraph">
+                        Lorem ipsum dolor sit amet, pro no tantas nominavi honestatis, 
+                        cibo facilisi partiendo ad pri. Eu molestie pertinax pro, pro 
+                        paulo accusata cu. Pro ad prompta meliore. In est etiam praesent, 
+                        ius ea hinc possim urbanitas.
+                    </p>
+                    
+                    <button id="p_button" onclick="fullMessage()">Read More</button>
+                    
+                </div>
+                
             </article>
           </div>
 
