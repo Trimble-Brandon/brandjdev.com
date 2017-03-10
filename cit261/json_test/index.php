@@ -54,11 +54,13 @@
               <hr />
 
               <section>
-                  Enter a name: <input type="text" id="name_input">
-                  Enter an age: <input type="text" id="age_input">
-                  Enter a city: <input type="text" id="city_input">
+                  Enter a name: <input type="text" id="name_input"><br />
+                  Enter an age: <input type="text" id="age_input"><br />
+                  Enter a city: <input type="text" id="city_input"><br />
                   <button type="button" onclick="createObject()">Create Object</button>
                   
+                  <br />
+                  <hr />
                   <p>
                       Name stored is: <span id="name_output"></span><br />
                       Age stored is: <span id="age_output"></span><br />
