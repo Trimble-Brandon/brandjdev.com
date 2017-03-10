@@ -51,6 +51,7 @@
                     </p>
                     
                     <button id="p_button">Read More</button>
+                    <button id="style_button">Style Message Red</button>
                     
                     <script type="text/javascript">
                         document.getElementById("p_button").onclick = function() {
@@ -77,6 +78,10 @@
                             + "lobortis. Id cum maiorum epicuri moderatius. Eam prompta accusata ea. "
                             + "Id omnis interesset qui, persius legimus quaestio mea te, has mutat "
                             + "liber ad.";
+                        }
+                        
+                        document.getElementById("style_button").onclick = function() {
+                            document.getElementById("paragraph").style.color = "#990000";
                         }
                 
                     </script>
