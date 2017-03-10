@@ -45,7 +45,10 @@
                     <a href="/cit261/local_storage_api/index.php">Local Storage API</a>
                   </li>
                   <li>
-                      <a href="/cit261/standard_javascript_events//index.php">Standard JavaScript Events</a>
+                      <a href="/cit261/standard_javascript_events/index.php">Standard JavaScript Events</a>
+                  </li>
+                  <li>
+                      <a href="/cit261/reaction_game/index.php">Standard JavaScript Events</a>
                   </li>
                 </ul>
               </section>
