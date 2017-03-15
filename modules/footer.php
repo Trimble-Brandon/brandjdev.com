@@ -22,7 +22,7 @@
         </div>
 
         <div class="col-sm-4">
-          <p class="updated">Last Updated: 09 March 2017</p>
+          <p class="updated">Last Updated: 15 March 2017</p>
         </div>
       </div>
     </div>
