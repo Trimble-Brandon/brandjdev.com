@@ -34,8 +34,9 @@
             be able to share this writing with those who may appreciate it and give me valuable
             feedback. It will work also as a blog. It will have written entries covering trips
             I make, or events that take place that I have thoughts on.
-            For more technical reading on the site or to view the site plan/design click
-            <a href="../sitePlan.php">here</a>.
+            For more technical reading on the site:<br />
+            <a href="../sitePlan.php">View Site Plan</a><br />
+            <a href="../styleguide/styleguide.html">View Styleguide</a>
           </p>
 
           <h2>About Me</h2>
