@@ -53,6 +53,9 @@
                   <li>
                       <a href="/cit261/json_test/index.php">json Test</a>
                   </li>
+                  <li>
+                      <a href="/cit261/dom_manipulation/index.php">DOM Specific Manipulation</a>
+                  </li>
                 </ul>
               </section>
 
