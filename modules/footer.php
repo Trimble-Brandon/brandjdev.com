@@ -14,6 +14,8 @@
           <br />
           <a href="/comm310/practice/index.html">COMM 310 Practice Page</a>
           <br />
+          <a href="contact.php" style="padding-left: 10px;">-Contact</a>
+          <br />
           <a href="/cit261/index.php">CIT 261 Practice Page</a>
         </div>
 
@@ -22,7 +24,7 @@
         </div>
 
         <div class="col-sm-4">
-          <p class="updated">Last Updated: 15 March 2017</p>
+          <p class="updated">Last Updated: 17 March 2017</p>
         </div>
       </div>
     </div>
