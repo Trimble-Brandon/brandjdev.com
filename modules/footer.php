@@ -24,7 +24,7 @@
         </div>
 
         <div class="col-sm-4">
-          <p class="updated">Last Updated: 17 March 2017</p>
+          <p class="updated">Last Updated: 18 March 2017</p>
         </div>
       </div>
     </div>
