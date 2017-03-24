@@ -40,6 +40,10 @@
             </p>
 
             <hr />
+		  
+	    <a href="http://brandjdev.com/cit336/teaching_presentation/index.php" target="_blank">Teaching Presentation</a>
+            <br />
+            <hr />
 
             <h2>Exercises</h2>
             <ul>
