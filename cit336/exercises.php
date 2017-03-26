@@ -78,7 +78,7 @@
                 Exercise 12-2(complete)
               </li>
               <li>
-                Exercise 13-1
+                Exercise 13-1(complete)
               </li>
             </ul>
 
@@ -102,7 +102,7 @@
                 <a href="http://brandjdev.com/cit336/assignments/enhancement12/index.php" target="_blank">Enhancement 12</a>
               </li>
               <li>
-                Enhancement 13
+                <a href="http://brandjdev.com/cit336/assignments/enhancement13/index.php" target="_blank">Enhancement 13</a>
               </li>
             </ul>
           </div>
